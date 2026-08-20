@@ -33,7 +33,7 @@ const EASE = [0.22, 1, 0.36, 1] as const;
 
 
 const FALLBACK_IMAGE =
-  "/images/motorcycle-placeholder.jpg";
+  "images/motorcycle-placeholder.jpg";
 
 
 const translations = {
@@ -83,7 +83,7 @@ const brands: Brand[] = [
     model: "Panigale V4 S",
 
     image:
-      "/images/motorcycles-v2/ducati-panigale-v4-s.webp",
+      "images/motorcycles-v2/ducati-panigale-v4-s.webp",
   },
 
 
@@ -98,7 +98,7 @@ const brands: Brand[] = [
     model: "M 1000 RR",
 
     image:
-      "/images/motorcycles-v2/bmw-m-1000-rr.webp",
+      "images/motorcycles-v2/bmw-m-1000-rr.webp",
   },
 
 
@@ -113,7 +113,7 @@ const brands: Brand[] = [
     model: "Superveloce 1000",
 
     image:
-      "/images/motorcycles-v2/mv-agusta-superveloce-1000.webp",
+      "images/motorcycles-v2/mv-agusta-superveloce-1000.webp",
   },
 
 
@@ -128,7 +128,7 @@ const brands: Brand[] = [
     model: "Speed Triple 1200 RS",
 
     image:
-      "/images/motorcycles-v2/triumph-speed-triple-1200-rs.webp",
+      "images/motorcycles-v2/triumph-speed-triple-1200-rs.webp",
   },
 
 
@@ -143,7 +143,7 @@ const brands: Brand[] = [
     model: "RSV4 Factory",
 
     image:
-      "/images/motorcycles-v2/aprilia-rsv4-factory.webp",
+      "images/motorcycles-v2/aprilia-rsv4-factory.webp",
   },
 
 
@@ -158,7 +158,7 @@ const brands: Brand[] = [
     model: "CVO Road Glide",
 
     image:
-      "/images/motorcycles-v2/harley-cvo-road-glide.webp",
+      "images/motorcycles-v2/harley-cvo-road-glide.webp",
   },
 
 ];

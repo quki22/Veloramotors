@@ -72,7 +72,7 @@ const translations: Record<Language, Translation> = {
   },
 };
 
-const HERO_IMAGE = "/images/hero-velora.webp";
+const HERO_IMAGE = "images/hero-velora.webp";
 
 export default function HeroSection({
   language,

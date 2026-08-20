@@ -59,7 +59,7 @@ type BrandSelectionEventDetail = {
 const EASE = [0.22, 1, 0.36, 1] as const;
 
 const FALLBACK_IMAGE =
-  "/images/motorcycle-placeholder.jpg";
+  "images/motorcycle-placeholder.jpg";
 
 const translations = {
   en: {
