@@ -212,7 +212,7 @@ export default function MotorcycleApproachSection({
               }}
             >
               <img
-                src="/images/motorcycles-v2/triumph-speed-triple-1200-rs.webp"
+                src="images/motorcycles-v2/triumph-speed-triple-1200-rs.webp"
                 alt={t.imageAlt}
                 loading="lazy"
                 decoding="async"
