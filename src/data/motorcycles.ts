@@ -23,9 +23,9 @@ export const motorcycles: Motorcycle[] = [
     price: 41_900,
     priceType: "from",
     image:
-      "/images/motorcycles-v2/ducati-panigale-v4-s.webp",
+      "images/motorcycles-v2/ducati-panigale-v4-s.webp",
     gallery: [
-      "/images/motorcycles-v2/ducati-panigale-v4-s.webp",
+      "images/motorcycles-v2/ducati-panigale-v4-s.webp",
     ],
     description: {
       en: "An uncompromising Italian superbike combining advanced aerodynamics, precise handling and exceptional performance.",
@@ -49,9 +49,9 @@ export const motorcycles: Motorcycle[] = [
     price: 30_900,
     priceType: "from",
     image:
-      "/images/motorcycles-v2/ducati-diavel-v4.webp",
+      "images/motorcycles-v2/ducati-diavel-v4.webp",
     gallery: [
-      "/images/motorcycles-v2/ducati-diavel-v4.webp",
+      "images/motorcycles-v2/ducati-diavel-v4.webp",
     ],
     description: {
       en: "A muscular premium cruiser that combines unmistakable Italian design with superbike-inspired performance.",
@@ -75,9 +75,9 @@ export const motorcycles: Motorcycle[] = [
     price: 40_500,
     priceType: "from",
     image:
-      "/images/motorcycles-v2/bmw-m-1000-rr.webp",
+      "images/motorcycles-v2/bmw-m-1000-rr.webp",
     gallery: [
-      "/images/motorcycles-v2/bmw-m-1000-rr.webp",
+      "images/motorcycles-v2/bmw-m-1000-rr.webp",
     ],
     description: {
       en: "A high-performance motorcycle created for riders who value racing technology, engineering precision and total control.",
@@ -101,9 +101,9 @@ export const motorcycles: Motorcycle[] = [
     price: 24_900,
     priceType: "from",
     image:
-      "/images/motorcycles-v2/bmw-r-1300-gs.webp",
+      "images/motorcycles-v2/bmw-r-1300-gs.webp",
     gallery: [
-      "/images/motorcycles-v2/bmw-r-1300-gs.webp",
+      "images/motorcycles-v2/bmw-r-1300-gs.webp",
     ],
     description: {
       en: "A premium adventure motorcycle engineered for long-distance travel, difficult routes and everyday comfort.",
@@ -127,9 +127,9 @@ export const motorcycles: Motorcycle[] = [
     price: null,
     priceType: "request",
     image:
-      "/images/motorcycles-v2/mv-agusta-superveloce-1000.webp",
+      "images/motorcycles-v2/mv-agusta-superveloce-1000.webp",
     gallery: [
-      "/images/motorcycles-v2/mv-agusta-superveloce-1000.webp",
+      "images/motorcycles-v2/mv-agusta-superveloce-1000.webp",
     ],
     description: {
       en: "An exclusive limited-edition motorcycle where Italian design, craftsmanship and performance become one.",
@@ -153,9 +153,9 @@ export const motorcycles: Motorcycle[] = [
     price: null,
     priceType: "request",
     image:
-      "/images/motorcycles-v2/mv-agusta-brutale-1000-rr.webp",
+      "images/motorcycles-v2/mv-agusta-brutale-1000-rr.webp",
     gallery: [
-      "/images/motorcycles-v2/mv-agusta-brutale-1000-rr.webp",
+      "images/motorcycles-v2/mv-agusta-brutale-1000-rr.webp",
     ],
     description: {
       en: "An expressive Italian hyper-roadster with radical styling, premium components and breathtaking acceleration.",
@@ -179,9 +179,9 @@ export const motorcycles: Motorcycle[] = [
     price: 20_900,
     priceType: "from",
     image:
-      "/images/motorcycles-v2/triumph-speed-triple-1200-rs.webp",
+      "images/motorcycles-v2/triumph-speed-triple-1200-rs.webp",
     gallery: [
-      "/images/motorcycles-v2/triumph-speed-triple-1200-rs.webp",
+      "images/motorcycles-v2/triumph-speed-triple-1200-rs.webp",
     ],
     description: {
       en: "A precise British roadster combining a powerful triple-cylinder engine with focused handling and minimalist design.",
@@ -205,9 +205,9 @@ export const motorcycles: Motorcycle[] = [
     price: 27_900,
     priceType: "from",
     image:
-      "/images/motorcycles-v2/triumph-rocket-3-storm-r.webp",
+      "images/motorcycles-v2/triumph-rocket-3-storm-r.webp",
     gallery: [
-      "/images/motorcycles-v2/triumph-rocket-3-storm-r.webp",
+      "images/motorcycles-v2/triumph-rocket-3-storm-r.webp",
     ],
     description: {
       en: "A commanding power cruiser with monumental torque, distinctive proportions and unmistakable road presence.",
@@ -231,9 +231,9 @@ export const motorcycles: Motorcycle[] = [
     price: 27_500,
     priceType: "from",
     image:
-      "/images/motorcycles-v2/aprilia-rsv4-factory.webp",
+      "images/motorcycles-v2/aprilia-rsv4-factory.webp",
     gallery: [
-      "/images/motorcycles-v2/aprilia-rsv4-factory.webp",
+      "images/motorcycles-v2/aprilia-rsv4-factory.webp",
     ],
     description: {
       en: "A sophisticated Italian superbike developed around aerodynamic efficiency, racing electronics and V4 performance.",
@@ -257,9 +257,9 @@ export const motorcycles: Motorcycle[] = [
     price: 20_500,
     priceType: "from",
     image:
-      "/images/motorcycles-v2/aprilia-tuono-v4-factory.webp",
+      "images/motorcycles-v2/aprilia-tuono-v4-factory.webp",
     gallery: [
-      "/images/motorcycles-v2/aprilia-tuono-v4-factory.webp",
+      "images/motorcycles-v2/aprilia-tuono-v4-factory.webp",
     ],
     description: {
       en: "A premium naked motorcycle that brings superbike technology and V4 character to everyday road riding.",
@@ -283,9 +283,9 @@ export const motorcycles: Motorcycle[] = [
     price: 48_500,
     priceType: "from",
     image:
-      "/images/motorcycles-v2/harley-cvo-road-glide.webp",
+      "images/motorcycles-v2/harley-cvo-road-glide.webp",
     gallery: [
-      "/images/motorcycles-v2/harley-cvo-road-glide.webp",
+      "images/motorcycles-v2/harley-cvo-road-glide.webp",
     ],
     description: {
       en: "A flagship American touring motorcycle created for long journeys, exceptional comfort and unmistakable style.",
@@ -309,9 +309,9 @@ export const motorcycles: Motorcycle[] = [
     price: 14_900,
     priceType: "fixed",
     image:
-      "/images/motorcycles-v2/harley-sportster-s.webp",
+      "images/motorcycles-v2/harley-sportster-s.webp",
     gallery: [
-      "/images/motorcycles-v2/harley-sportster-s.webp",
+      "images/motorcycles-v2/harley-sportster-s.webp",
     ],
     description: {
       en: "A modern performance cruiser with muscular proportions, a responsive engine and a distinctive American character.",
